@@ -1,0 +1,12 @@
+.alert-danger {
+  border: 2px solid #c83838;
+}
+.alert-danger .alert-hrader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.alert-danger .alert-hrader .title {
+  display: flex;
+  align-items: center;
+}/*# sourceMappingURL=index.css.map */
